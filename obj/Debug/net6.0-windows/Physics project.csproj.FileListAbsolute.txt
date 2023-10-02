@@ -1,0 +1,17 @@
+E:\Work\Physics project\bin\Debug\net6.0-windows\Physics project.exe
+E:\Work\Physics project\bin\Debug\net6.0-windows\Physics project.deps.json
+E:\Work\Physics project\bin\Debug\net6.0-windows\Physics project.runtimeconfig.json
+E:\Work\Physics project\bin\Debug\net6.0-windows\Physics project.dll
+E:\Work\Physics project\bin\Debug\net6.0-windows\Physics project.pdb
+E:\Work\Physics project\obj\Debug\net6.0-windows\Physics project.csproj.AssemblyReference.cache
+E:\Work\Physics project\obj\Debug\net6.0-windows\Physics_project.Form1.resources
+E:\Work\Physics project\obj\Debug\net6.0-windows\Physics project.csproj.GenerateResource.cache
+E:\Work\Physics project\obj\Debug\net6.0-windows\Physics project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Physics project\obj\Debug\net6.0-windows\Physics project.AssemblyInfoInputs.cache
+E:\Work\Physics project\obj\Debug\net6.0-windows\Physics project.AssemblyInfo.cs
+E:\Work\Physics project\obj\Debug\net6.0-windows\Physics project.csproj.CoreCompileInputs.cache
+E:\Work\Physics project\obj\Debug\net6.0-windows\Physics project.dll
+E:\Work\Physics project\obj\Debug\net6.0-windows\refint\Physics project.dll
+E:\Work\Physics project\obj\Debug\net6.0-windows\Physics project.pdb
+E:\Work\Physics project\obj\Debug\net6.0-windows\Physics project.genruntimeconfig.cache
+E:\Work\Physics project\obj\Debug\net6.0-windows\ref\Physics project.dll
