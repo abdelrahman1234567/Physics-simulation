@@ -1,0 +1,21 @@
+E:\Work\physics project 2\bin\Debug\physics project 2.exe.config
+E:\Work\physics project 2\bin\Debug\physics project 2.exe
+E:\Work\physics project 2\bin\Debug\physics project 2.pdb
+E:\Work\physics project 2\obj\Debug\physics project 2.csproj.AssemblyReference.cache
+E:\Work\physics project 2\obj\Debug\physics project 2.csproj.SuggestedBindingRedirects.cache
+E:\Work\physics project 2\obj\Debug\physics_project_2.Form1.resources
+E:\Work\physics project 2\obj\Debug\physics_project_2.Properties.Resources.resources
+E:\Work\physics project 2\obj\Debug\physics project 2.csproj.GenerateResource.cache
+E:\Work\physics project 2\obj\Debug\physics project 2.csproj.CoreCompileInputs.cache
+E:\Work\physics project 2\obj\Debug\physics project 2.exe
+E:\Work\physics project 2\obj\Debug\physics project 2.pdb
+E:\Work\physics project 2\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+E:\Work\physics project 2\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+E:\Work\physics project 2\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+E:\Work\physics project 2\bin\Debug\Microsoft.Web.WebView2.Core.dll
+E:\Work\physics project 2\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+E:\Work\physics project 2\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+E:\Work\physics project 2\bin\Debug\Microsoft.Web.WebView2.Core.xml
+E:\Work\physics project 2\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+E:\Work\physics project 2\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+E:\Work\physics project 2\obj\Debug\physics project 2.csproj.CopyComplete
